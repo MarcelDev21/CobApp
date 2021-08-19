@@ -7,6 +7,7 @@ Nuestra aplicacion que se llama CobApp es una aplicacíon que permitira a cualqu
    este aplicacion tindra como objectivo principal, facilitar a la gente encontrar un obrero o un servicio para cualquiera tasca que necesite para su cuenta.
   * cybles
     En nuestro caso la cyble principal sera cualquiera persona que necesite un servicio urgente para su cuenta.
+
 # funcionalidad de la aplicación
 en esta aplicacíon vamos a trabajar en unas funcionalidades propias. 
 * crear una pagina de login para los dos tipos de usuarios que tindremos en nuestra aplicacíon
@@ -16,3 +17,12 @@ en esta aplicacíon vamos a trabajar en unas funcionalidades propias.
 * borrar publicaciones
 * modificar publicaciones
 * efectuar commentario 
+
+# tecnologias que usaremos
+en esta aplicaciones usarémos muchos conceptos:
+* javascript
+* html
+* Bootstrap
+* express
+* mongoDb
+* ----- 
