@@ -25,6 +25,5 @@ en esta aplicaciones usarémos muchos conceptos:
 * Bootstrap
 * express
 * mongoDb
-* ----- 
 
 ![Capture d’écran, le 2021-08-19 à 15 30 22](https://user-images.githubusercontent.com/88614114/130079240-8d7ba4a9-954d-4e0f-85b6-34f77be04ae3.png)
